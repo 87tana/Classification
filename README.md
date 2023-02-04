@@ -9,5 +9,6 @@ This task is based on a data set consisting of 2544 entries with 14 features tha
 In order to analyze the dataset, I need to understand and preprocess the dataset. Then I will apply three supervised classification algorithms including:
 - Support Vector Machine (SVM),
 - Decision Tree,
-- Random Forest. 
+- Random Forest.
+ 
 I will then compare their results and take the best one for my study.
